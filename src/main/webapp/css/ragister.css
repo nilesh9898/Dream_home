@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(../images/retro-living-room-interior-design.jpg);
+    background-size: cover;
+    
+}
+#col{
+    /* background-image: url(); */
+    background-color: rgba(0,0,0, 0.5);
+    margin: 60px 0;
+    width: 500px;
+    border-radius: 5%;
+    position: relative;
+}
+#logo{
+   margin: 20px;
+   text-align: center;
+   color: antiquewhite;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+.mb-3 {
+    margin: 10px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.form-control{
+    width: 60%;
+    margin: 0 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn{
+    margin: 30px 180px;
+}
+#btn:hover{
+    background-color: brown;
+}
+

@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(../images/pastel-blue-vignette-concrete-textured-background.jpg);
+    background-size: cover;
+}
+#col{
+    margin:100px ;
+    width: 400px;
+    background-color: rgba(200, 200, 200, 0.3);
+    border-radius: 5%;
+    border: 1px solid gray;
+}
+h1{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.mb-3{
+    margin: auto;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btnsub{
+    margin: 20px 150px;
+    text-align: center;
+    padding: 5px;
+    
+
+}

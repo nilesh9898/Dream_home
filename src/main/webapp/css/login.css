@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(84, 106, 84);
+    
+}
+#row{
+    border-radius: 5%;
+   
+}
+#imgbox{
+    position: relative;
+    border-radius: 2%;
+    
+    
+}
+#taxtpart{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    align-items: center;
+    color: antiquewhite;
+    z-index: 1;
+}
+#col1{
+    position: relative;
+    margin-top: 150px;
+    
+}
+#col2{
+  
+    margin-top: 150px;
+    border-radius: 5%;
+    background-color: antiquewhite;
+
+}
+.exampleInputEmail1{
+    margin-top: 20%;
+    position: relative;
+}
+.mb-3{
+    
+    padding: 10px 50px;
+
+}
+.btn {
+    margin-top: 10px;
+    margin-left: 25%;
+    width: 50%;
+    
+}
+.form-control{
+	border-left:1px ;
+	border-top:1px;
+	border-right:1px;
+	border-bottom: 1px solid;
+	border-radius:0%;
+	margin-left:10%;
+	
+	width: 80%;
+	
+}
+#footer{
+    margin-top: 20px;
+    margin-left: 25%;
+}
+#icon{
+   margin-left: 20px;
+   
+   position: relative;
+   top: 32px;
+   left: 50px;
+}
+#pass{
+    margin-top: 50px;
+}
+#picon{
+    margin-left: 20px;
+    position: relative;
+   top: 32px;
+   left: 40px;
+
+}
+/* a{
+    text-decoration: none;
+} */
+a:hover{
+    color: brown;
+}
+#password{
+    /* border: 5px solid grey; */
+    margin-left: 90px;
+    text-decoration: none;
+    padding: 5px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
